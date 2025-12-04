@@ -1,0 +1,6 @@
+.env
+.DS_Store
+_bin
+_cache
+_site
+deno.lock
