@@ -38,7 +38,7 @@
       "command": "echo \\\"thing apppears to work\\\""
     },
     "deploy": {
-      "command": "deno run -A deploy.ts"
+      "command": "BASE_URL='https://www.atoms.net/blog/' deno run -A deploy.ts"
     },
     "lume": {
       "description": "Run Lume command",
@@ -49,8 +49,8 @@
       "command": "deno task lume"
     },
     "serve": {
-      "description": "Run and serve the site for development",
-      "command": "deno task lume -s"
+      "description": "Run and serve the site for development at http://localhost:8000/",
+      "command": "BASE_URL='http://localhost:8000/' deno task lume -s"
     }
   },
   "compilerOptions": {

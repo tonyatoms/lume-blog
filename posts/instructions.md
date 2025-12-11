@@ -1,13 +1,12 @@
 ---
 title: Why and How a Blog Now?
-date: "2025-12-04T16:00:00.000Z"
+date: 2025-12-04
 author: Tony Adams
 tags:
   - Meta
   - Puppies
 draft: false
 ---
-
 Good questions!
 
 <!--more-->
@@ -31,7 +30,7 @@ The blog software [Lume](https://lume.land/) runs in
 
 ## What's with the frog and the pretentious title?
 
-Some obsessions may be revealed, such as my obsession with [Frog Respiration](https://www.britannica.com/science/How-Do-Frogs-Breathe) other obsessions, such as riding the [Peloton "bike"](https://www.onepeloton.com/) will be lurking under the surface, almost in secret, until I run out of other things to prattle on about.
+Some obsessions may be revealed, such as my obsession with [Frog Respiration](https://www.britannica.com/science/How-Do-Frogs-Breathe). Other obsessions, such as riding the [Peloton "bike"](https://www.onepeloton.com/) will be lurking under the surface, almost in secret, until I run out of other things to prattle on about.
 Spiritus Ranae, is sort-of Latin, or perhaps actual Latin for "Breath of the Frog". For about four years, my Peloton user-name was "Frog Breath". There was some non-happiness about it from people I love and/or respect, so I eventually changed it to "Spiritus Ranae" about which I have as yet heard no compliants. (Then again, an eye roll is silent!)
 
 ## Wut?
@@ -54,15 +53,18 @@ There will be song titles for songs that may or may not ever get written.
 
 ### Always Be Crafting!
 
-love that section of [We Will Craft](https://wewillcraft.org)
+love that section of the [We Will Craft](https://wewillcraft.org/#values) values page.
 
-### Cooking!
+### If Ilhan Omar is Garbage I am 100% Pro-Garbage
 
 asdf
 
-### My Crushing Disappiontment with Pantone’s 2026 Color of the Year
+### My Crushing Disappointment with Pantone’s 2026 Color of the Year
 
 a white? really?
+
+### Video Game 
+[Device That Made Me: Curren$y on Sega Genesis](https://www.backmarket.com/en-us/c/tech-education/currensy-sega-genesis-device-that-made-me?lid=jt9j3ftd4tql)
 
 ### How to Live in a world of extreme beauty, which is on fire and brimming with injustice?
 

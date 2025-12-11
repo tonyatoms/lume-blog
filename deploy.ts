@@ -50,6 +50,10 @@ async function deploy() {
   // 3b. Commit the changes
   await runCommand("git", ["commit", "-m", COMMIT_MESSAGE], GIT_CWD);
 
+  // 🚨 Pull with the --rebase flag to ensure a clean, linear merge
+  console.log("--- Pulling remote changes using rebase strategy ---");
+  await runCommand("git", ["pull", "--rebase", "origin", "main"], GIT_CWD);
+
   // 3c. Push to the remote repository
   await runCommand("git", ["push", "origin", "main"], GIT_CWD); 
 
